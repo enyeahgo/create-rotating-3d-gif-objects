@@ -7,7 +7,7 @@ My personal process on how to create 3d logos (.stl) as gif and make it rotate o
 4. Change its color accordingly.
 5. Capture the rotation animation using any screen recorder.
 6. Trim the output video accordingly.
-7. Edit the video in [EzGif](https://ezgif.com) paying particular attention to removing the background by clicking 'effects'->'Replace color with Transparency'
+7. Edit the video in [EzGif](https://ezgif.com) paying particular attention to removing the background by clicking 'effects'->'Replace color with Transparency' or by replacing color with its hex codes. Also if you want the logo in gold then tick the Sepia effect.
 <br><br>**Create the Background**
 1. Download your desired video from Youtube using any Youtube video downloader.
 2. Trim the video accordingly.
