@@ -23,4 +23,5 @@ My personal process on how to create 3d logos (.stl) as gif and make it rotate o
 <br>
 Here's a sample output of this process.
 <br>
-![Sample Gif](https://dl.dropboxusercontent.com/s/vz4tz8txpwcmrji/infinitelyinlove_lanterns.gif)
+
+[Sample Gif](https://dl.dropboxusercontent.com/s/vz4tz8txpwcmrji/infinitelyinlove_lanterns.gif)
