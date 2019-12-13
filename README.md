@@ -1,5 +1,5 @@
 # create-rotating-3d-gif-objects
-My personal process on how to create 3d logos (.stl) as gif and make it rotate on top of another gif.
+My personal process on how to create 3d logos (.stl) as gif and make it rotate on top of another gif background.
 <br><br>**Create the Logo**
 1. Create your png logo in Auto Sketch.
 2. Convert it to 3d model (.stl) using [Selva3d](http://app.selva3d.com/) (need to create account to be able to use).
