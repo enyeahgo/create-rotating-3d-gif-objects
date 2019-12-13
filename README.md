@@ -19,3 +19,9 @@ My personal process on how to create 3d logos (.stl) as gif and make it rotate o
 3. Play powerpoint and capture the scene using any screen recorder.
 4. Convert the output video into gif again using [EzGif](https://ezgif.com).
 5. And I think that's it. You now have your own rotating gif logo on top of a gif background.
+
+<br>
+
+Here's a sample output of this process.
+<br>
+![Sample Gif](https://dl.dropboxusercontent.com/s/vz4tz8txpwcmrji/infinitelyinlove_lanterns.gif)
